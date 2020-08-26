@@ -1,0 +1,9 @@
+F:\repos\NetworkManagement\NetworkManagement.Core\bin\Debug\netcoreapp3.1\NetworkManagement.Core.deps.json
+F:\repos\NetworkManagement\NetworkManagement.Core\bin\Debug\netcoreapp3.1\NetworkManagement.Core.dll
+F:\repos\NetworkManagement\NetworkManagement.Core\bin\Debug\netcoreapp3.1\NetworkManagement.Core.pdb
+F:\repos\NetworkManagement\NetworkManagement.Core\obj\Debug\netcoreapp3.1\NetworkManagement.Core.csprojAssemblyReference.cache
+F:\repos\NetworkManagement\NetworkManagement.Core\obj\Debug\netcoreapp3.1\NetworkManagement.Core.AssemblyInfoInputs.cache
+F:\repos\NetworkManagement\NetworkManagement.Core\obj\Debug\netcoreapp3.1\NetworkManagement.Core.AssemblyInfo.cs
+F:\repos\NetworkManagement\NetworkManagement.Core\obj\Debug\netcoreapp3.1\NetworkManagement.Core.csproj.CoreCompileInputs.cache
+F:\repos\NetworkManagement\NetworkManagement.Core\obj\Debug\netcoreapp3.1\NetworkManagement.Core.dll
+F:\repos\NetworkManagement\NetworkManagement.Core\obj\Debug\netcoreapp3.1\NetworkManagement.Core.pdb

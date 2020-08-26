@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dk8B9gg7d0ER4QTYurM0aRPOLtIgRtHWx5HWAt9B7tlLEpSyqW2vtOgtNInuXg3C6EEkBYXAsnYPq6zs4eA4vg==",
+  "success": true,
+  "projectFilePath": "F:\\repos\\NetworkManagement\\NetworkManagement.Domain\\NetworkManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blank\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
