@@ -4,10 +4,12 @@ import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 import { RouterModule } from '@angular/router';
 import { ReportHomeComponent } from './report-home.component';
 import { ReportHomeRoutingModule } from './report-home.routing.module';
+import { ReportDataShowingComponent } from './report-data-showing/report-data-showing.component';
 
 
 @NgModule({
     declarations: [
+        ReportDataShowingComponent,
         ReportHomeComponent,       
     ],
     imports: [
